@@ -1,3 +1,6 @@
+using UnityEngine;
+using System.Collection;
+
 class Hello{
   
   public Hello(){
@@ -6,6 +9,7 @@ class Hello{
        void Update()
        {
         Debug.Log("Saber Best Girl"); 
+        Debug.Log("Wow");
        }
   }
 }
