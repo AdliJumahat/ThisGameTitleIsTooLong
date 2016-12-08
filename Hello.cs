@@ -1,0 +1,6 @@
+class Hello{
+  
+  public Hello(){
+    
+  }
+}
